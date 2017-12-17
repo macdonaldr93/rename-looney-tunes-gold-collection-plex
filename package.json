@@ -1,0 +1,14 @@
+{
+  "name": "rename-looney-tunes-gold-collection-plex",
+  "version": "0.1.0",
+  "description": "Rename Looney Tunes Gold Collection files for Plex",
+  "main": "main.js",
+  "author": "Ryan Macdonald <macdonaldr93@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chalk": "2.3.0",
+    "csv-string": "3.1.2",
+    "fs-finder": "1.8.1",
+    "minimist": "1.2.0"
+  }
+}
